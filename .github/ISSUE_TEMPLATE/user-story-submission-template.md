@@ -3,7 +3,7 @@ name: User story submission template
 about: Use this template to submit user stories as issues to be discussed by group
   members and collaborators.
 title: 'New user story:'
-labels: ''
+labels: 'user story'
 assignees: ''
 
 ---
