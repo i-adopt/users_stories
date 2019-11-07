@@ -7,19 +7,19 @@ labels: 'user story'
 assignees: ''
 
 ---
-See https://github.com/i-adopt/users_stories/blob/master/README.md for help filling out this template.
+Rename the title, and replace first three entries with your short phrases. [Get help](https://github.com/i-adopt/users_stories/blob/master/README.md) filling out this template.
 
 ## As a...
-Specify your role or the user's role (e.g. As a scientist, or as a data analyst, etc.) 
+Specify your *role* or the user's role (e.g. As a scientist, or as a data analyst, etc.) 
 
 ## I want to...
-Specify the action you or the user want to perform 
+Specify the *desired action* you or the user want to perform 
 
 ## So that...
-Specify why the actions needs to be performed, for what result, for what benefit
+Specify why the actions needs to be performed: for what result or *benefit*
 
 ## Domain(s)
-Specify what domain or what multiple domains need to be covered for that particular user story
+Specify what domain(s) need to be covered for that particular user story
 
 ## Addition Information
 You may add other information about your user story here, including more detailed descriptions of the problem(s).
