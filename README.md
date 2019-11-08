@@ -2,7 +2,7 @@
 
 This repository relates to Task 1 of the I-ADOPT workplan. It is used to collate and discuss users stories submitted to the group.
 
-A user story is fundamentally a one-sentence description of what a particular type of user wants the solution to achieve, and why they want that. We are expanding the concept here to include more complete narratives that can more fully explain your one-sentence user story. 
+A user story is fundamentally a one-sentence description of what a particular type of user wants the solution to achieve, and why they want that. We are expanding the concept to include more complete narratives that can more fully explain your one-sentence user story. 
 
 ## Instructions
 
