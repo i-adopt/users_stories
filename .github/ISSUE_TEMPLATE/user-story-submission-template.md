@@ -22,4 +22,4 @@ Specify why the action needs to be performed: for what result or *benefit*
 Specify what domain(s) need to be covered for that particular user story
 
 ## Addition Information
-You may add other information about your user story here, including more detailed descriptions of the problem(s).
+You may add other information about your user story here, including more detailed descriptions of the problem(s) or links to online documents.
