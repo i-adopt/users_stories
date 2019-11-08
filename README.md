@@ -6,7 +6,7 @@ A user story is fundamentally a one-sentence description of what a particular ty
 
 ## Instructions
 
-To initiate a user story, [Get Started](https://github.com/i-adopt/users_stories/issues/new?assignees=&labels=user+story&template=user-story-submission-template.md&title=Role+-+Desired+Action+-+Benefit). (If there is some problem, go to the Issues tab for the repository, click New issue, then click on Get Started for the "User story submission template".)
+To initiate a user story, [Get Started](https://github.com/i-adopt/users_stories/issues/new?assignees=&labels=user+story&template=user-story-submission-template.md&title=Role+-+Desired+Action+-+Benefit). (If there is some problem, go to the Issues tab for the repository, click New issue, then click on Get Started using the "User story submission template".)
 
 If you just want to create a regular ticket that isn't a user story, then [Open a blank issue](https://github.com/i-adopt/users_stories/issues/new).
 
