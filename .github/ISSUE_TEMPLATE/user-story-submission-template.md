@@ -16,7 +16,7 @@ Specify your *role* or the user's role (e.g. As a scientist, or as a data analys
 Specify the *desired action* you or the user want to perform 
 
 ## So that...
-Specify why the actions needs to be performed: for what result or *benefit*
+Specify why the action needs to be performed: for what result or *benefit*
 
 ## Domain(s)
 Specify what domain(s) need to be covered for that particular user story
