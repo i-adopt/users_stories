@@ -6,7 +6,7 @@ A user story should be fundamentally a one-sentence description of what a partic
 
 ## Instructions
 
-To initiate a user story, [Get Started](https://github.com/i-adopt/users_stories/issues/new?assignees=&labels=user+story&template=user-story-submission-template.md&title=Role+-+Desired+Action+-+Benefit). (If there is some problem, go to the Issues tab for the repository, click New issue, then click on Get Started using the "User story submission template".)
+To initiate a user story, [Get Started](https://github.com/i-adopt/users_stories/issues/new?assignees=&labels=user+story&template=user-story-submission-template.md&title=Role+-+Desired+Action+-+Benefit). (If there is some problem, go to the Issues tab for the repository, click <kbd>New issue</kbd>, then click on <kbd>Get Started</kbd> using the "User story submission template".)
 
 If you just want to create a regular ticket that isn't a user story, then [Open a blank issue](https://github.com/i-adopt/users_stories/issues/new).
 
@@ -28,7 +28,8 @@ all the details that help define your complete user story.
 
 ### Submission and Editing
 
-Be sure to submit your user story using the "Commit changes" button at the very bottom of the page.
+Be sure to submit your user story using the <kbd>Submit new issue</kbd> button at the very bottom of the page.
 
-You can go back and edit your story at any time by visiting it (while logged in to GitHub) and clicking on the pencil icon (upper right). 
+You can go back and edit your story at any time by visiting it (while logged in to GitHub), clicking on the <kbd>...</kbd> icon at the upper right of your story and selecting <kbd>Edit</kbd> from the context menu. After you are finished, make sure to hit the <kbd>Update comment</kbd> button to save your changes.
+
 If you save an incomplete story, put (Incomplete) in the title so readers know you are still working on it.
